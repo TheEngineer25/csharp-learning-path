@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e38df332ed1569ee",
+        "id": "f6e8ca734c90f7a6",
         "type": "tabs",
         "children": [
           {
-            "id": "7dbdbbbf41c546f6",
+            "id": "6dbab52054cf772f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -203,9 +203,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7dbdbbbf41c546f6",
+  "active": "6dbab52054cf772f",
   "lastOpenFiles": [
-    "Лекции/Untitled.md",
+    "Лекции/01 - Първа програма и Hello World.md",
+    "Лекции/01 - 01. Първа програма и Hello World.md",
     "Лекции/01 - Първа програма и Hello World.md",
     "Лекции/01. садсд.md",
     "Лекции/Untitled 1.md",

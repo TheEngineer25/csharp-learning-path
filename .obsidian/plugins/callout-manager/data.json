@@ -1,6 +1,8 @@
 {
   "callouts": {
-    "custom": [],
+    "custom": [
+      "csharp-code"
+    ],
     "settings": {}
   },
   "calloutDetection": {
