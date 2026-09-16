@@ -1,0 +1,10 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Border",
+  "enabledCssSnippets": [
+    "csharp-notes"
+  ],
+  "textFontFamily": "Times New Roman",
+  "monospaceFontFamily": "Times New Roman",
+  "baseFontSize": 24
+}
