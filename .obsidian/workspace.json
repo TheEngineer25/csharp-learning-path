@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/14 - Разбиране на типа данни int и защо не можем да го поберем в стринг.md",
+                "file": "Лекции/01 - Първа програма и Hello World.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14 - Разбиране на типа данни int и защо не можем да го поберем в стринг"
+              "title": "01 - Първа програма и Hello World"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "!\\[\\]\\(([^)]+)\\)",
+                "query": ".png",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,8 +202,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b500eb598b1f783d",
+  "active": "6dbab52054cf772f",
   "lastOpenFiles": [
+    "Лекции/14 - Разбиране на типа данни int и защо не можем да го поберем в стринг.md",
+    "Images/9.png",
+    "Images/8.png",
+    "Images/7.png",
+    "Images/6.png",
+    "Images/5.png",
+    "Images/3.png",
+    "Images/4.png",
+    "Images/2.png",
+    "Images/12.png",
+    "Images/10.png",
+    "Images",
     "Код/UnderstandingIntDatatype/UnderstandingIntDatatype/obj/Debug/net10.0/UnderstandingIntDatatype.AssemblyInfo.cs",
     "Код/UnderstandingIntDatatype/UnderstandingIntDatatype/obj/Debug/net10.0/UnderstandingIntDatatype.AssemblyInfoInputs.cache",
     "Код/UnderstandingIntDatatype/UnderstandingIntDatatype/obj/Debug/net10.0/UnderstandingIntDatatype.GlobalUsings.g.cs",
@@ -213,32 +225,19 @@
     "Код/UnderstandingIntDatatype/UnderstandingIntDatatype/obj/Debug/net10.0",
     "Код/UnderstandingIntDatatype/UnderstandingIntDatatype/obj/Debug",
     "Код/UnderstandingIntDatatype/UnderstandingIntDatatype/obj",
-    "Код/UnderstandingIntDatatype/UnderstandingIntDatatype/bin/Debug/net10.0",
-    "Код/UnderstandingIntDatatype/UnderstandingIntDatatype/bin/Debug",
     "Лекции/13 - Разбиране на предупорежденията в C#.md",
-    "Лекции/14 - Разбиране на типа данни int и защо не можем да го поберем в стринг.md",
     "Лекции/12 - Въведение в мини-проект калкулатор за добавяне.md",
     "Лекции/11 - Дефиниране на променлива, инициализация и присвояване.md",
-    "Изображения/12.png",
     "Лекции/10 - Преглед на типове данни.md",
     "Лекции/09 - Конвенции за именуване.md",
     "Лекции/08 - Стандарти за кодиране.md",
     "Лекции/07 - Преглед от високо ниво на променливи и типове данни.md",
     "Лекции/06 - Разбиране на потребителски вход и тип данни стринг.md",
-    "Изображения/11.png",
-    "Изображения/10.png",
-    "Изображения/9.png",
     "Лекции/05 - Използване на променливи - стрингове.md",
-    "Изображения/8.png",
-    "Изображения/7.png",
     "Лекции/04 - Едноредови коментари.md",
     "Лекции/03 - Разбиране на рамка и компилиране.md",
     "Лекции/02 - История на C#.md",
     "Лекции/01 - Първа програма и Hello World.md",
-    "Изображения/6.png",
-    "Изображения/5.png",
-    "Изображения/4.png",
-    "Изображения/3.png",
     "Templates/C# Code Callout.md",
     "Лекции/01 - 01. Първа програма и Hello World.md",
     "Лекции/01. садсд.md",
