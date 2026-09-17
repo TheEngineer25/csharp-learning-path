@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/01 - Първа програма и Hello World.md",
+                "file": "Лекции/14 - Разбиране на типа данни int и защо не можем да го поберем в стринг.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Първа програма и Hello World"
+              "title": "14 - Разбиране на типа данни int и защо не можем да го поберем в стринг"
             }
           }
         ]
@@ -201,8 +201,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ac84d8f94120ec84",
+  "active": "6dbab52054cf772f",
   "lastOpenFiles": [
+    "Images/Pasted image 20260917161312.png",
+    "Лекции/01 - Първа програма и Hello World.md",
     "Код/UserInputAndDataTypeString/UserInputAndDataTypeString/bin/Release/net10.0",
     "Код/UserInputAndDataTypeString/UserInputAndDataTypeString/bin/Release",
     "Проекти/AdditionCalculator/AdditionCalculator/bin/Release/net10.0",
@@ -213,7 +215,6 @@
     "Код/UserInputAndDataTypeString/UserInputAndDataTypeString/obj/Release/net10.0/UserInputAndDataTypeString.AssemblyInfoInputs.cache",
     "Код/UserInputAndDataTypeString/UserInputAndDataTypeString/obj/Release/net10.0/UserInputAndDataTypeString.AssemblyInfo.cs",
     "Код/UserInputAndDataTypeString/UserInputAndDataTypeString/obj/Release/net10.0/refint",
-    "Код/UserInputAndDataTypeString/UserInputAndDataTypeString/obj/Release/net10.0/ref",
     "Лекции/14 - Разбиране на типа данни int и защо не можем да го поберем в стринг.md",
     "Images/9.png",
     "Images/8.png",
@@ -237,7 +238,6 @@
     "Лекции/04 - Едноредови коментари.md",
     "Лекции/03 - Разбиране на рамка и компилиране.md",
     "Лекции/02 - История на C#.md",
-    "Лекции/01 - Първа програма и Hello World.md",
     "Templates/C# Code Callout.md",
     "Лекции/01 - 01. Първа програма и Hello World.md",
     "Лекции/01. садсд.md",
