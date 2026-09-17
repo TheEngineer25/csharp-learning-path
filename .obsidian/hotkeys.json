@@ -1,0 +1,10 @@
+{
+  "templater-obsidian:Templates/C# Code Callout.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ]
+}

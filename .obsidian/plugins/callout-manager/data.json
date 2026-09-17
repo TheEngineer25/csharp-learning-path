@@ -3,7 +3,15 @@
     "custom": [
       "csharp-code"
     ],
-    "settings": {}
+    "settings": {
+      "csharp-code": [
+        {
+          "changes": {
+            "icon": "lucide-code-2"
+          }
+        }
+      ]
+    }
   },
   "calloutDetection": {
     "obsidian": true,

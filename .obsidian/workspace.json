@@ -99,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Лекции/01 - Първа програма и Hello World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Лекции/01 - Първа програма и Hello World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Лекции/01 - Първа програма и Hello World.md",
+                "file": "Лекции/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -205,15 +203,16 @@
   },
   "active": "6dbab52054cf772f",
   "lastOpenFiles": [
+    "Templates/C# Code Callout.md",
+    "Templates/Нов Text Document.txt",
     "Лекции/01 - Първа програма и Hello World.md",
+    "Лекции/Untitled.md",
     "Лекции/01 - 01. Първа програма и Hello World.md",
-    "Лекции/01 - Първа програма и Hello World.md",
     "Лекции/01. садсд.md",
     "Лекции/Untitled 1.md",
     "Лекции/01. Variables.md",
     "Лекции/01. Първа програма и Hello World.md",
     "Templates/C# Note.md",
-    "Templates/Нов Text Document.txt",
     "Templates",
     "Нова папка"
   ]
