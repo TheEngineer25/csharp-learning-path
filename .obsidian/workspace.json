@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/11 - Дефиниране на променлива, инициализация и присвояване.md",
+                "file": "Лекции/14 - Разбиране на типа данни int и защо не можем да го поберем в стринг.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11 - Дефиниране на променлива, инициализация и присвояване"
+              "title": "14 - Разбиране на типа данни int и защо не можем да го поберем в стринг"
             }
           }
         ]
@@ -203,20 +203,23 @@
   },
   "active": "6dbab52054cf772f",
   "lastOpenFiles": [
-    "Задачи/SimpleVariableIntroduction/SimpleVariableIntroduction/obj/Debug/net10.0/SimpleVariableIntroduction.assets.cache",
-    "Задачи/SimpleVariableIntroduction/SimpleVariableIntroduction/obj/SimpleVariableIntroduction.csproj.nuget.g.props",
-    "Задачи/SimpleVariableIntroduction/SimpleVariableIntroduction/obj/Debug/net10.0/SimpleVariableIntroduction.AssemblyInfo.cs",
-    "Задачи/SimpleVariableIntroduction/SimpleVariableIntroduction/obj/Debug/net10.0/SimpleVariableIntroduction.AssemblyInfoInputs.cache",
-    "Задачи/SimpleVariableIntroduction/SimpleVariableIntroduction/obj/Debug/net10.0/SimpleVariableIntroduction.GeneratedMSBuildEditorConfig.editorconfig",
-    "Задачи/SimpleVariableIntroduction/SimpleVariableIntroduction/obj/Debug/net10.0/SimpleVariableIntroduction.GlobalUsings.g.cs",
-    "Задачи/SimpleVariableIntroduction/SimpleVariableIntroduction/obj/Debug/net10.0/refint",
-    "Задачи/SimpleVariableIntroduction/SimpleVariableIntroduction/obj/Debug/net10.0/ref",
-    "Задачи/SimpleVariableIntroduction/SimpleVariableIntroduction/obj/Debug/net10.0",
-    "Задачи/SimpleVariableIntroduction/SimpleVariableIntroduction/obj/Debug",
-    "Задачи/SimpleVariableIntroduction/SimpleVariableIntroduction/obj",
+    "Код/UnderstandingIntDatatype/UnderstandingIntDatatype/obj/Debug/net10.0/UnderstandingIntDatatype.AssemblyInfo.cs",
+    "Код/UnderstandingIntDatatype/UnderstandingIntDatatype/obj/Debug/net10.0/UnderstandingIntDatatype.AssemblyInfoInputs.cache",
+    "Код/UnderstandingIntDatatype/UnderstandingIntDatatype/obj/Debug/net10.0/UnderstandingIntDatatype.GlobalUsings.g.cs",
+    "Код/UnderstandingIntDatatype/UnderstandingIntDatatype/obj/Debug/net10.0/UnderstandingIntDatatype.GeneratedMSBuildEditorConfig.editorconfig",
+    "Код/UnderstandingIntDatatype/UnderstandingIntDatatype/obj/Debug/net10.0/refint",
+    "Код/UnderstandingIntDatatype/UnderstandingIntDatatype/obj/Debug/net10.0/ref",
+    "Код/UnderstandingIntDatatype/UnderstandingIntDatatype/obj/Debug/net10.0",
+    "Код/UnderstandingIntDatatype/UnderstandingIntDatatype/obj/Debug",
+    "Код/UnderstandingIntDatatype/UnderstandingIntDatatype/obj",
+    "Код/UnderstandingIntDatatype/UnderstandingIntDatatype/bin/Debug/net10.0",
+    "Код/UnderstandingIntDatatype/UnderstandingIntDatatype/bin/Debug",
+    "Лекции/13 - Разбиране на предупорежденията в C#.md",
+    "Лекции/14 - Разбиране на типа данни int и защо не можем да го поберем в стринг.md",
+    "Лекции/12 - Въведение в мини-проект калкулатор за добавяне.md",
+    "Лекции/11 - Дефиниране на променлива, инициализация и присвояване.md",
     "Изображения/12.png",
     "Лекции/10 - Преглед на типове данни.md",
-    "Лекции/11 - Дефиниране на променлива, инициализация и присвояване.md",
     "Лекции/09 - Конвенции за именуване.md",
     "Лекции/08 - Стандарти за кодиране.md",
     "Лекции/07 - Преглед от високо ниво на променливи и типове данни.md",
