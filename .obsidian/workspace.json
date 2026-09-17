@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/01 - Първа програма и Hello World.md",
+                "file": "Лекции/06 - Разбиране на потребителски вход и тип данни стринг.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Първа програма и Hello World"
+              "title": "06 - Разбиране на потребителски вход и тип данни стринг"
             }
           }
         ]
@@ -203,17 +203,39 @@
   },
   "active": "6dbab52054cf772f",
   "lastOpenFiles": [
-    "Templates/C# Code Callout.md",
-    "Templates/Нов Text Document.txt",
+    "Нов Text Document.txt",
+    "Изображения/11.png",
+    "Проекти/AdditionCalculator/AdditionCalculator/obj/Debug/net10.0/AdditionCalculator.csproj.FileListAbsolute.txt",
+    "Проекти/AdditionCalculator/AdditionCalculator/bin/Debug/net10.0/AdditionCalculator.pdb",
+    "Проекти/AdditionCalculator/AdditionCalculator/obj/Debug/net10.0/Addition.F532E393.Up2Date",
+    "Проекти/AdditionCalculator/AdditionCalculator/obj/Debug/net10.0/ref/AdditionCalculator.dll",
+    "Проекти/AdditionCalculator/AdditionCalculator/bin/Debug/net10.0/AdditionCalculator.dll",
+    "Проекти/AdditionCalculator/AdditionCalculator/bin/Debug/net10.0/AdditionCalculator.runtimeconfig.json",
+    "Проекти/AdditionCalculator/AdditionCalculator/obj/Debug/net10.0/AdditionCalculator.genruntimeconfig.cache",
+    "Проекти/AdditionCalculator/AdditionCalculator/bin/Debug/net10.0/AdditionCalculator.deps.json",
+    "Проекти/AdditionCalculator/AdditionCalculator/bin/Debug/net10.0/AdditionCalculator.exe",
+    "Проекти/AdditionCalculator/AdditionCalculator/obj/Debug/net10.0/apphost.exe",
+    "Изображения/10.png",
+    "Изображения/9.png",
+    "Лекции/05 - Използване на променливи - стрингове.md",
+    "Лекции/06 - Разбиране на потребителски вход и тип данни стринг.md",
+    "Изображения/8.png",
+    "Изображения/7.png",
+    "Лекции/04 - Едноредови коментари.md",
+    "Лекции/03 - Разбиране на рамка и компилиране.md",
+    "Лекции/02 - История на C#.md",
     "Лекции/01 - Първа програма и Hello World.md",
-    "Лекции/Untitled.md",
+    "Изображения/6.png",
+    "Изображения/5.png",
+    "Изображения/4.png",
+    "Изображения/3.png",
+    "Изображения/2.png",
+    "Templates/C# Code Callout.md",
     "Лекции/01 - 01. Първа програма и Hello World.md",
     "Лекции/01. садсд.md",
     "Лекции/Untitled 1.md",
     "Лекции/01. Variables.md",
     "Лекции/01. Първа програма и Hello World.md",
-    "Templates/C# Note.md",
-    "Templates",
-    "Нова папка"
+    "Templates/C# Note.md"
   ]
 }

@@ -1,0 +1,67 @@
+# ==========================================
+# 1. C# / .NET / Visual Studio / VS Code
+# ==========================================
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vscode/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Nuget Packages
+[Pp]ackages/
+*.nupkg
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]64/
+[Aa][Rr][Mm]/
+
+# ==========================================
+# 2. Obsidian (Vault Configuration & Cache)
+# ==========================================
+# Изключваме временните работни файлове, за да не се блъскат при авто-синк на всеки 10 мин:
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/cache
+.obsidian/cache.*
+.obsidian/graph.json
+.obsidian/graph-history.json
+.obsidian/app.json
+.obsidian/community-plugins.json
+.obsidian/plugins/obsidian-git/data.json
+
+# (По желание) Ако НЕ искаш да качваш изобщо инсталираните плъгини и теми 
+# в GitHub, а само самите бележки (.md файловете) и картинките, разкоментирай долния ред:
+# .obsidian/plugins/
+# .obsidian/themes/
+
+# ==========================================
+# 3. OS (Operating System) Junk Files
+# ==========================================
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS / Linux
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+ 风
