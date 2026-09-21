@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/22 - Имплицитно типизирани променливи vs. експлицитно типизирани променливи.md",
+                "file": "Лекции/23 - Оператори, ред на оценяване и базова математика.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22 - Имплицитно типизирани променливи vs. експлицитно типизирани променливи"
+              "title": "23 - Оператори, ред на оценяване и базова математика"
             }
           }
         ]
@@ -203,6 +203,9 @@
   },
   "active": "03967d1e5fff48e2",
   "lastOpenFiles": [
+    "Лекции/22 - Имплицитно типизирани променливи vs. експлицитно типизирани променливи.md",
+    "Лекции/23 - Оператори, ред на оценяване и базова математика.md",
+    "Images/25.png",
     "Код/ImplicitlyTypedVsExplicitlyTypedvariables/ImplicitlyTypedVsExplicitlyTypedvariables/obj/Debug/net10.0/ImplicitlyTypedVsExplicitlyTypedvariables.assets.cache",
     "Код/ImplicitlyTypedVsExplicitlyTypedvariables/ImplicitlyTypedVsExplicitlyTypedvariables/obj/ImplicitlyTypedVsExplicitlyTypedvariables.csproj.nuget.dgspec.json",
     "Код/ImplicitlyTypedVsExplicitlyTypedvariables/ImplicitlyTypedVsExplicitlyTypedvariables/obj/project.nuget.cache",
@@ -213,9 +216,7 @@
     "Код/ImplicitlyTypedVsExplicitlyTypedvariables/ImplicitlyTypedVsExplicitlyTypedvariables/obj/Debug/net10.0/ImplicitlyTypedVsExplicitlyTypedvariables.AssemblyInfoInputs.cache",
     "Код/ImplicitlyTypedVsExplicitlyTypedvariables/ImplicitlyTypedVsExplicitlyTypedvariables/obj/Debug/net10.0/ImplicitlyTypedVsExplicitlyTypedvariables.GeneratedMSBuildEditorConfig.editorconfig",
     "Код/ImplicitlyTypedVsExplicitlyTypedvariables/ImplicitlyTypedVsExplicitlyTypedvariables/obj/Debug/net10.0/ImplicitlyTypedVsExplicitlyTypedvariables.GlobalUsings.g.cs",
-    "Код/ImplicitlyTypedVsExplicitlyTypedvariables/ImplicitlyTypedVsExplicitlyTypedvariables/obj/Debug/net10.0/refint",
     "Лекции/21 - Методи за преобразуване Parse и Convert.md",
-    "Лекции/22 - Имплицитно типизирани променливи vs. експлицитно типизирани променливи.md",
     "Лекции/20 - Експлицитно преобразуване.md",
     "Images/24.png",
     "Images/23.png",
@@ -234,7 +235,6 @@
     "Лекции/15. Използване на парсване за конвертиране от стринг в число.md",
     "Лекции/14 - Разбиране на типа данни int и защо не можем да го поберем в стринг.md",
     "Images/16.png",
-    "Images/15.png",
     "Лекции/01 - Първа програма и Hello World.md",
     "Лекции/13 - Разбиране на предупорежденията в C#.md",
     "Лекции/12 - Въведение в мини-проект калкулатор за добавяне.md",
