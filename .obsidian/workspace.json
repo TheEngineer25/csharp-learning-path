@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/25 - Тип данни char и  UTF-16 Smiley.md",
+                "file": "Лекции/26 - Още манипулации на стрингове със String Formatter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25 - Тип данни char и  UTF-16 Smiley"
+              "title": "26 - Още манипулации на стрингове със String Formatter"
             }
           }
         ]
@@ -203,20 +203,21 @@
   },
   "active": "03967d1e5fff48e2",
   "lastOpenFiles": [
-    "Код/chatDatatypeUTF16/chatDatatypeUTF16/obj/Debug/net10.0/chatDatatypeUTF16.csproj.FileListAbsolute.txt",
-    "Код/chatDatatypeUTF16/chatDatatypeUTF16/bin/Debug/net10.0/chatDatatypeUTF16.pdb",
-    "Код/chatDatatypeUTF16/chatDatatypeUTF16/obj/Debug/net10.0/chatData.188C54B3.Up2Date",
-    "Код/chatDatatypeUTF16/chatDatatypeUTF16/obj/Debug/net10.0/ref/chatDatatypeUTF16.dll",
-    "Код/chatDatatypeUTF16/chatDatatypeUTF16/bin/Debug/net10.0/chatDatatypeUTF16.dll",
-    "Код/chatDatatypeUTF16/chatDatatypeUTF16/bin/Debug/net10.0/chatDatatypeUTF16.runtimeconfig.json",
-    "Код/chatDatatypeUTF16/chatDatatypeUTF16/obj/Debug/net10.0/chatDatatypeUTF16.genruntimeconfig.cache",
-    "Код/chatDatatypeUTF16/chatDatatypeUTF16/bin/Debug/net10.0/chatDatatypeUTF16.deps.json",
-    "Код/chatDatatypeUTF16/chatDatatypeUTF16/bin/Debug/net10.0/chatDatatypeUTF16.exe",
-    "Код/chatDatatypeUTF16/chatDatatypeUTF16/obj/Debug/net10.0/apphost.exe",
-    "Код/chatDatatypeUTF16/chatDatatypeUTF16/obj/Debug/net10.0/chatDatatypeUTF16.csproj.BuildWithSkipAnalyzers",
+    "Код/StringManipulationStringFormatter/StringManipulationStringFormatter/obj/Debug/net10.0/StringManipulationStringFormatter.assets.cache",
+    "Код/StringManipulationStringFormatter/StringManipulationStringFormatter/obj/StringManipulationStringFormatter.csproj.nuget.dgspec.json",
+    "Код/StringManipulationStringFormatter/StringManipulationStringFormatter/obj/project.nuget.cache",
+    "Код/StringManipulationStringFormatter/StringManipulationStringFormatter/obj/project.assets.json",
+    "Код/StringManipulationStringFormatter/StringManipulationStringFormatter/obj/StringManipulationStringFormatter.csproj.nuget.g.targets",
+    "Код/StringManipulationStringFormatter/StringManipulationStringFormatter/obj/StringManipulationStringFormatter.csproj.nuget.g.props",
+    "Код/StringManipulationStringFormatter/StringManipulationStringFormatter/obj/Debug/net10.0/StringManipulationStringFormatter.AssemblyInfo.cs",
+    "Код/StringManipulationStringFormatter/StringManipulationStringFormatter/obj/Debug/net10.0/StringManipulationStringFormatter.AssemblyInfoInputs.cache",
+    "Код/StringManipulationStringFormatter/StringManipulationStringFormatter/obj/Debug/net10.0/StringManipulationStringFormatter.GeneratedMSBuildEditorConfig.editorconfig",
+    "Код/StringManipulationStringFormatter/StringManipulationStringFormatter/obj/Debug/net10.0/StringManipulationStringFormatter.GlobalUsings.g.cs",
+    "Код/StringManipulationStringFormatter/StringManipulationStringFormatter/obj/Debug/net10.0/refint",
+    "Лекции/25 - Тип данни char и  UTF-16 Smiley.md",
+    "Лекции/26 - Още манипулации на стрингове със String Formatter.md",
     "Images/36.png",
     "Лекции/24 - Дебъгване, точки на прекъсване, грешка по време на изпълнение и грешка при компилиране.md",
-    "Лекции/25 - Тип данни char и  UTF-16 Smiley.md",
     "Images/35.png",
     "Images/34.png",
     "Images/33.png",
@@ -247,7 +248,6 @@
     "Лекции/08 - Стандарти за кодиране.md",
     "Лекции/07 - Преглед от високо ниво на променливи и типове данни.md",
     "Лекции/06 - Разбиране на потребителски вход и тип данни стринг.md",
-    "Лекции/05 - Използване на променливи - стрингове.md",
-    "Лекции/04 - Едноредови коментари.md"
+    "Лекции/05 - Използване на променливи - стрингове.md"
   ]
 }
