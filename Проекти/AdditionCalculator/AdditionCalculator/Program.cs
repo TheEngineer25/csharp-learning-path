@@ -2,7 +2,7 @@
 
 int myNumber = 0;
 
-myNumber = Console.ReadLine();
+myNumber = int.Parse(Console.ReadLine());
 
 string userInput = Console.ReadLine();
 Console.WriteLine("You entered " + userInput);
