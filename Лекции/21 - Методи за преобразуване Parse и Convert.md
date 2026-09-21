@@ -31,9 +31,15 @@ tags:
 
 > [!code] C# Code
 > ```csharp
-> int age = 25;
-> string name = "Vladislav";
->
-> Console.WriteLine($"Hello, {name}!");
-> Console.WriteLine($"Age: {age}");
+> string myBoolString = "true";
 > ```
+
+Сега идеята е да превърнем този стринг в реална булева променлива. Затова ние можем да кажем
+
+> [!code] C# Използване на класа Convert
+> ```csharp
+> bool myBool = Convert.ToBoolean(myBoolString);
+> ```
+
+Трябва да бъдем много прецизни относно това, което ние имаме в нашата променлива и че това нещо може д а се преобразува в това, което ние искаме.
+Както обаче видяхме, `Convert` класа притежава и други методи.

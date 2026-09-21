@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/21 - Методи за преобразуване Parse и Convert.md",
+                "file": "Лекции/22 - Имплицитно типизирани променливи vs. експлицитно типизирани променливи.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21 - Методи за преобразуване Parse и Convert"
+              "title": "22 - Имплицитно типизирани променливи vs. експлицитно типизирани променливи"
             }
           }
         ]
@@ -203,19 +203,20 @@
   },
   "active": "03967d1e5fff48e2",
   "lastOpenFiles": [
-    "Код/ConvertionHelpersParseConvert/ConvertionHelpersParseConvert/obj/Debug/net10.0/ConvertionHelpersParseConvert.assets.cache",
-    "Код/ConvertionHelpersParseConvert/ConvertionHelpersParseConvert/obj/ConvertionHelpersParseConvert.csproj.nuget.dgspec.json",
-    "Код/ConvertionHelpersParseConvert/ConvertionHelpersParseConvert/obj/Debug/net10.0/ConvertionHelpersParseConvert.AssemblyInfo.cs",
-    "Код/ConvertionHelpersParseConvert/ConvertionHelpersParseConvert/obj/Debug/net10.0/ConvertionHelpersParseConvert.AssemblyInfoInputs.cache",
-    "Код/ConvertionHelpersParseConvert/ConvertionHelpersParseConvert/obj/Debug/net10.0/ConvertionHelpersParseConvert.GeneratedMSBuildEditorConfig.editorconfig",
-    "Код/ConvertionHelpersParseConvert/ConvertionHelpersParseConvert/obj/Debug/net10.0/refint",
-    "Код/ConvertionHelpersParseConvert/ConvertionHelpersParseConvert/obj/Debug/net10.0/ref",
-    "Код/ConvertionHelpersParseConvert/ConvertionHelpersParseConvert/obj/Debug/net10.0/ConvertionHelpersParseConvert.GlobalUsings.g.cs",
-    "Код/ConvertionHelpersParseConvert/ConvertionHelpersParseConvert/obj/Debug/net10.0",
-    "Код/ConvertionHelpersParseConvert/ConvertionHelpersParseConvert/obj/Debug",
-    "Код/ConvertionHelpersParseConvert/ConvertionHelpersParseConvert/obj",
-    "Лекции/20 - Експлицитно преобразуване.md",
+    "Код/ImplicitlyTypedVsExplicitlyTypedvariables/ImplicitlyTypedVsExplicitlyTypedvariables/obj/Debug/net10.0/ImplicitlyTypedVsExplicitlyTypedvariables.assets.cache",
+    "Код/ImplicitlyTypedVsExplicitlyTypedvariables/ImplicitlyTypedVsExplicitlyTypedvariables/obj/ImplicitlyTypedVsExplicitlyTypedvariables.csproj.nuget.dgspec.json",
+    "Код/ImplicitlyTypedVsExplicitlyTypedvariables/ImplicitlyTypedVsExplicitlyTypedvariables/obj/project.nuget.cache",
+    "Код/ImplicitlyTypedVsExplicitlyTypedvariables/ImplicitlyTypedVsExplicitlyTypedvariables/obj/project.assets.json",
+    "Код/ImplicitlyTypedVsExplicitlyTypedvariables/ImplicitlyTypedVsExplicitlyTypedvariables/obj/ImplicitlyTypedVsExplicitlyTypedvariables.csproj.nuget.g.targets",
+    "Код/ImplicitlyTypedVsExplicitlyTypedvariables/ImplicitlyTypedVsExplicitlyTypedvariables/obj/ImplicitlyTypedVsExplicitlyTypedvariables.csproj.nuget.g.props",
+    "Код/ImplicitlyTypedVsExplicitlyTypedvariables/ImplicitlyTypedVsExplicitlyTypedvariables/obj/Debug/net10.0/ImplicitlyTypedVsExplicitlyTypedvariables.AssemblyInfo.cs",
+    "Код/ImplicitlyTypedVsExplicitlyTypedvariables/ImplicitlyTypedVsExplicitlyTypedvariables/obj/Debug/net10.0/ImplicitlyTypedVsExplicitlyTypedvariables.AssemblyInfoInputs.cache",
+    "Код/ImplicitlyTypedVsExplicitlyTypedvariables/ImplicitlyTypedVsExplicitlyTypedvariables/obj/Debug/net10.0/ImplicitlyTypedVsExplicitlyTypedvariables.GeneratedMSBuildEditorConfig.editorconfig",
+    "Код/ImplicitlyTypedVsExplicitlyTypedvariables/ImplicitlyTypedVsExplicitlyTypedvariables/obj/Debug/net10.0/ImplicitlyTypedVsExplicitlyTypedvariables.GlobalUsings.g.cs",
+    "Код/ImplicitlyTypedVsExplicitlyTypedvariables/ImplicitlyTypedVsExplicitlyTypedvariables/obj/Debug/net10.0/refint",
     "Лекции/21 - Методи за преобразуване Parse и Convert.md",
+    "Лекции/22 - Имплицитно типизирани променливи vs. експлицитно типизирани променливи.md",
+    "Лекции/20 - Експлицитно преобразуване.md",
     "Images/24.png",
     "Images/23.png",
     "Лекции/19 - Имплицитно проеобразуване.md",
@@ -247,7 +248,6 @@
     "Лекции/04 - Едноредови коментари.md",
     "Лекции/03 - Разбиране на рамка и компилиране.md",
     "Лекции/02 - История на C#.md",
-    "Templates/C# Code Callout.md",
-    "Лекции/01 - 01. Първа програма и Hello World.md"
+    "Templates/C# Code Callout.md"
   ]
 }
