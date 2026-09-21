@@ -203,18 +203,19 @@
   },
   "active": "03967d1e5fff48e2",
   "lastOpenFiles": [
+    "Images/Pasted image 20260921105430.png",
+    "Код/ExplicitConvertion/ExplicitConvertion/obj/Debug/net10.0/ExplicitConvertion.csproj.FileListAbsolute.txt",
+    "Код/ExplicitConvertion/ExplicitConvertion/bin/Debug/net10.0/ExplicitConvertion.pdb",
+    "Код/ExplicitConvertion/ExplicitConvertion/obj/Debug/net10.0/Explicit.5214132F.Up2Date",
+    "Код/ExplicitConvertion/ExplicitConvertion/obj/Debug/net10.0/ref/ExplicitConvertion.dll",
+    "Код/ExplicitConvertion/ExplicitConvertion/bin/Debug/net10.0/ExplicitConvertion.dll",
+    "Код/ExplicitConvertion/ExplicitConvertion/bin/Debug/net10.0/ExplicitConvertion.runtimeconfig.json",
+    "Код/ExplicitConvertion/ExplicitConvertion/obj/Debug/net10.0/ExplicitConvertion.genruntimeconfig.cache",
+    "Код/ExplicitConvertion/ExplicitConvertion/bin/Debug/net10.0/ExplicitConvertion.deps.json",
+    "Код/ExplicitConvertion/ExplicitConvertion/bin/Debug/net10.0/ExplicitConvertion.exe",
+    "Код/ExplicitConvertion/ExplicitConvertion/obj/Debug/net10.0/apphost.exe",
     "Лекции/19 - Имплицитно проеобразуване.md",
     "Лекции/20 - Експлицитно преобразуване.md",
-    "Код/ImplicitConvertion/ImplicitConvertion/obj/Debug/net10.0/ImplicitConvertion.assets.cache",
-    "Код/ImplicitConvertion/ImplicitConvertion/obj/Debug/net10.0/ImplicitConvertion.AssemblyInfo.cs",
-    "Код/ImplicitConvertion/ImplicitConvertion/obj/Debug/net10.0/ImplicitConvertion.AssemblyInfoInputs.cache",
-    "Код/ImplicitConvertion/ImplicitConvertion/obj/Debug/net10.0/ImplicitConvertion.GeneratedMSBuildEditorConfig.editorconfig",
-    "Код/ImplicitConvertion/ImplicitConvertion/obj/Debug/net10.0/refint",
-    "Код/ImplicitConvertion/ImplicitConvertion/obj/Debug/net10.0/ref",
-    "Код/ImplicitConvertion/ImplicitConvertion/obj/Debug/net10.0/ImplicitConvertion.GlobalUsings.g.cs",
-    "Код/ImplicitConvertion/ImplicitConvertion/obj/Debug/net10.0",
-    "Код/ImplicitConvertion/ImplicitConvertion/obj/Debug",
-    "Код/ImplicitConvertion/ImplicitConvertion/obj",
     "Лекции/18 - Изпозлване на double в нашия проект.md",
     "Images/22.png",
     "Images/21.png",
@@ -247,7 +248,6 @@
     "Лекции/02 - История на C#.md",
     "Templates/C# Code Callout.md",
     "Лекции/01 - 01. Първа програма и Hello World.md",
-    "Лекции/01. садсд.md",
-    "Лекции/Untitled 1.md"
+    "Лекции/01. садсд.md"
   ]
 }
