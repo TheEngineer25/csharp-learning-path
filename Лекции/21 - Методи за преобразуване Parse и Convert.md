@@ -17,5 +17,23 @@ tags:
 
 ## 🧠 Бележки
 
+Нека да разгледаме полезни методи да преобразуване, като ние вече видяхме един от тях, а именно `Parse()` методът. 
+Нека все пак да го видим още веднъж.
 
+> [!code] C# Parse() метод
+> ```csharp
+> string numberString = "123";
+> int result = int.Parse(numberString);
+> ```
 
+По този начин можем да използваме парсването.
+В някои случаи обаче ще е необходимо да използваме `Cоnvert`.
+
+> [!code] C# Code
+> ```csharp
+> int age = 25;
+> string name = "Vladislav";
+>
+> Console.WriteLine($"Hello, {name}!");
+> Console.WriteLine($"Age: {age}");
+> ```
