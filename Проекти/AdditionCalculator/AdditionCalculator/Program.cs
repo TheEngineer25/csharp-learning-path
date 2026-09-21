@@ -1,10 +1,11 @@
-﻿Console.WriteLine("Enter a number:");
+﻿Console.WriteLine("Enter a whole number:");
 
 int myNumber = 0;
 
-myNumber = int.Parse(Console.ReadLine());
-
 string userInput = Console.ReadLine();
+
+myNumber = int.Parse(userInput);
+
 Console.WriteLine("You entered " + userInput);
 
 Console.ReadKey();
