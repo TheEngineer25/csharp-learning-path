@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/28 - Как да използваме escape оператора в стрингове.md",
+                "file": "Лекции/29 - Логически оператори.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "28 - Как да използваме escape оператора в стрингове"
+              "title": "29 - Логически оператори"
             }
           }
         ]
@@ -203,6 +203,8 @@
   },
   "active": "bf48d8f13f845e68",
   "lastOpenFiles": [
+    "Лекции/28 - Как да използваме escape оператора в стрингове.md",
+    "Лекции/29 - Логически оператори.md",
     "Задачи/SpecialCharactersandEscapeSequences/SpecialCharactersandEscapeSequences/obj/Debug/net10.0/SpecialCharactersandEscapeSequences.assets.cache",
     "Задачи/SpecialCharactersandEscapeSequences/SpecialCharactersandEscapeSequences/obj/SpecialCharactersandEscapeSequences.csproj.nuget.dgspec.json",
     "Задачи/SpecialCharactersandEscapeSequences/SpecialCharactersandEscapeSequences/obj/Debug/net10.0/SpecialCharactersandEscapeSequences.AssemblyInfo.cs",
@@ -213,14 +215,12 @@
     "Задачи/SpecialCharactersandEscapeSequences/SpecialCharactersandEscapeSequences/obj/Debug/net10.0/ref",
     "Задачи/SpecialCharactersandEscapeSequences/SpecialCharactersandEscapeSequences/obj/Debug/net10.0",
     "Задачи/SpecialCharactersandEscapeSequences/SpecialCharactersandEscapeSequences/obj/Debug",
-    "Задачи/SpecialCharactersandEscapeSequences/SpecialCharactersandEscapeSequences/obj",
     "Images/Pasted image 20260923112617.png",
     "Images/Pasted image 20260923112441.png",
     "Images/Pasted image 20260923112145.png",
     "Images/Pasted image 20260923111824.png",
     "Images/41.png",
     "Лекции/27 - Символи, които са запазени в C#.md",
-    "Лекции/28 - Как да използваме escape оператора в стрингове.md",
     "Лекции/26 - Още манипулации на стрингове със String Formatter.md",
     "Images/40.png",
     "Images/39.png",
