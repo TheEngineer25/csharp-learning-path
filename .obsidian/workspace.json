@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/32 - Оператори OR и NOT.md",
+                "file": "Лекции/33 - AND оператор.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "32 - Оператори OR и NOT"
+              "title": "33 - AND оператор"
             }
           }
         ]
@@ -203,8 +203,12 @@
   },
   "active": "bf48d8f13f845e68",
   "lastOpenFiles": [
-    "Images/Pasted image 20260923142538.png",
-    "Images/Pasted image 20260923142101.png",
+    "Лекции/32 - Оператори OR и NOT.md",
+    "Лекции/33 - AND оператор.md",
+    "Images/52.png",
+    "Images/51.png",
+    "Images/50.png",
+    "Images/49.png",
     "Код/OrAndNotOperators/OrAndNotOperators/obj/Debug/net10.0/OrAndNotOperators.csproj.FileListAbsolute.txt",
     "Код/OrAndNotOperators/OrAndNotOperators/bin/Debug/net10.0/OrAndNotOperators.pdb",
     "Код/OrAndNotOperators/OrAndNotOperators/obj/Debug/net10.0/OrAndNot.94253041.Up2Date",
@@ -216,7 +220,6 @@
     "Код/OrAndNotOperators/OrAndNotOperators/bin/Debug/net10.0/OrAndNotOperators.exe",
     "Код/OrAndNotOperators/OrAndNotOperators/obj/Debug/net10.0/apphost.exe",
     "Лекции/31 - If изявления.md",
-    "Лекции/32 - Оператори OR и NOT.md",
     "Images/48.png",
     "Images/47.png",
     "Images/46.png",
@@ -226,11 +229,8 @@
     "Images/45.png",
     "Images/44.png",
     "Images/43.png",
-    "Images/42.png",
-    "Images/41.png",
     "Лекции/27 - Символи, които са запазени в C#.md",
     "Лекции/26 - Още манипулации на стрингове със String Formatter.md",
-    "Images/40.png",
     "Лекции/25 - Тип данни char и  UTF-16 Smiley.md",
     "Лекции/24 - Дебъгване, точки на прекъсване, грешка по време на изпълнение и грешка при компилиране.md",
     "Лекции/23 - Оператори, ред на оценяване и базова математика.md",
