@@ -1,10 +1,10 @@
-﻿bool isRainy = true;
+﻿bool isRainy = false;
 bool hasUmbrella = true;
 
-if (isRainy)
+if(isRainy)
 {
     Console.WriteLine("It's rainy!");
 }
 
-Console.WriteLine("Аy OK!");
+
 Console.ReadKey();
