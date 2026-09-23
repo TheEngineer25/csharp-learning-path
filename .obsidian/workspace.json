@@ -203,6 +203,17 @@
   },
   "active": "bf48d8f13f845e68",
   "lastOpenFiles": [
+    "Код/EscapeOperator/EscapeOperator/obj/Debug/net10.0/EscapeOperator.assets.cache",
+    "Код/EscapeOperator/EscapeOperator/obj/EscapeOperator.csproj.nuget.dgspec.json",
+    "Код/EscapeOperator/EscapeOperator/obj/project.nuget.cache",
+    "Код/EscapeOperator/EscapeOperator/obj/project.assets.json",
+    "Код/EscapeOperator/EscapeOperator/obj/EscapeOperator.csproj.nuget.g.targets",
+    "Код/EscapeOperator/EscapeOperator/obj/EscapeOperator.csproj.nuget.g.props",
+    "Код/EscapeOperator/EscapeOperator/obj/Debug/net10.0/EscapeOperator.AssemblyInfo.cs",
+    "Код/EscapeOperator/EscapeOperator/obj/Debug/net10.0/EscapeOperator.AssemblyInfoInputs.cache",
+    "Код/EscapeOperator/EscapeOperator/obj/Debug/net10.0/EscapeOperator.GeneratedMSBuildEditorConfig.editorconfig",
+    "Код/EscapeOperator/EscapeOperator/obj/Debug/net10.0/refint",
+    "Код/EscapeOperator/EscapeOperator/obj/Debug/net10.0/ref",
     "Лекции/27 - Символи, които са запазени в C#.md",
     "Лекции/28 - Как да използваме escape оператора в стрингове.md",
     "Лекции/26 - Още манипулации на стрингове със String Formatter.md",
@@ -210,16 +221,6 @@
     "Images/39.png",
     "Images/38.png",
     "Images/37.png",
-    "Код/StringManipulationStringFormatter/StringManipulationStringFormatter/obj/Debug/net10.0/StringManipulationStringFormatter.csproj.FileListAbsolute.txt",
-    "Код/StringManipulationStringFormatter/StringManipulationStringFormatter/bin/Debug/net10.0/StringManipulationStringFormatter.pdb",
-    "Код/StringManipulationStringFormatter/StringManipulationStringFormatter/obj/Debug/net10.0/StringMa.09CABAC0.Up2Date",
-    "Код/StringManipulationStringFormatter/StringManipulationStringFormatter/obj/Debug/net10.0/ref/StringManipulationStringFormatter.dll",
-    "Код/StringManipulationStringFormatter/StringManipulationStringFormatter/bin/Debug/net10.0/StringManipulationStringFormatter.dll",
-    "Код/StringManipulationStringFormatter/StringManipulationStringFormatter/bin/Debug/net10.0/StringManipulationStringFormatter.runtimeconfig.json",
-    "Код/StringManipulationStringFormatter/StringManipulationStringFormatter/obj/Debug/net10.0/StringManipulationStringFormatter.genruntimeconfig.cache",
-    "Код/StringManipulationStringFormatter/StringManipulationStringFormatter/bin/Debug/net10.0/StringManipulationStringFormatter.deps.json",
-    "Код/StringManipulationStringFormatter/StringManipulationStringFormatter/bin/Debug/net10.0/StringManipulationStringFormatter.exe",
-    "Код/StringManipulationStringFormatter/StringManipulationStringFormatter/obj/Debug/net10.0/apphost.exe",
     "Лекции/25 - Тип данни char и  UTF-16 Smiley.md",
     "Images/36.png",
     "Лекции/24 - Дебъгване, точки на прекъсване, грешка по време на изпълнение и грешка при компилиране.md",
@@ -247,7 +248,6 @@
     "Лекции/10 - Преглед на типове данни.md",
     "Лекции/09 - Конвенции за именуване.md",
     "Лекции/08 - Стандарти за кодиране.md",
-    "Лекции/07 - Преглед от високо ниво на променливи и типове данни.md",
-    "Лекции/06 - Разбиране на потребителски вход и тип данни стринг.md"
+    "Лекции/07 - Преглед от високо ниво на променливи и типове данни.md"
   ]
 }
