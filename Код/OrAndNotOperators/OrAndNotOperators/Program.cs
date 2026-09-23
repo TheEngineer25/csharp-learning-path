@@ -1,9 +1,9 @@
-﻿bool isRainy = false;
+﻿bool isRainy = true;
 bool hasUmbrella = true;
 
-if(isRainy)
+if(!isRainy || hasUmbrella)
 {
-    Console.WriteLine("It's rainy!");
+    Console.WriteLine("I'm not getting wet!");
 }
 
 
