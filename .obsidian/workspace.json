@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/38 - Вложени if твърдения.md",
+                "file": "Лекции/39 - Разбиране на обхвата на променлива.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "38 - Вложени if твърдения"
+              "title": "39 - Разбиране на обхвата на променлива"
             }
           }
         ]
@@ -201,22 +201,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ac84d8f94120ec84",
+  "active": "bf48d8f13f845e68",
   "lastOpenFiles": [
-    "Код/NestedIfStatements/NestedIfStatements/vq5r05db.vqd~",
-    "Images/72.png",
-    "Код/NestedIfStatements/NestedIfStatements/obj/Debug/net10.0/NestedIfStatements.csproj.FileListAbsolute.txt",
-    "Код/NestedIfStatements/NestedIfStatements/bin/Debug/net10.0/NestedIfStatements.pdb",
-    "Код/NestedIfStatements/NestedIfStatements/obj/Debug/net10.0/NestedIf.F9CC54DD.Up2Date",
-    "Код/NestedIfStatements/NestedIfStatements/obj/Debug/net10.0/ref/NestedIfStatements.dll",
-    "Код/NestedIfStatements/NestedIfStatements/bin/Debug/net10.0/NestedIfStatements.dll",
-    "Код/NestedIfStatements/NestedIfStatements/bin/Debug/net10.0/NestedIfStatements.runtimeconfig.json",
-    "Код/NestedIfStatements/NestedIfStatements/obj/Debug/net10.0/NestedIfStatements.genruntimeconfig.cache",
-    "Код/NestedIfStatements/NestedIfStatements/bin/Debug/net10.0/NestedIfStatements.deps.json",
-    "Код/NestedIfStatements/NestedIfStatements/bin/Debug/net10.0/NestedIfStatements.exe",
-    "Код/NestedIfStatements/NestedIfStatements/obj/Debug/net10.0/apphost.exe",
-    "Лекции/37 - Оператор за равенствео и операторът а различие.md",
+    "Код/ScopeOfAVariable/ScopeOfAVariable/obj/Debug/net10.0/ScopeOfAVariable.assets.cache",
+    "Код/ScopeOfAVariable/ScopeOfAVariable/obj/Debug/net10.0/ScopeOfAVariable.AssemblyInfo.cs",
+    "Код/ScopeOfAVariable/ScopeOfAVariable/obj/Debug/net10.0/ScopeOfAVariable.AssemblyInfoInputs.cache",
+    "Код/ScopeOfAVariable/ScopeOfAVariable/obj/Debug/net10.0/ScopeOfAVariable.GeneratedMSBuildEditorConfig.editorconfig",
+    "Код/ScopeOfAVariable/ScopeOfAVariable/obj/Debug/net10.0/ScopeOfAVariable.GlobalUsings.g.cs",
+    "Код/ScopeOfAVariable/ScopeOfAVariable/obj/Debug/net10.0/refint",
+    "Код/ScopeOfAVariable/ScopeOfAVariable/obj/Debug/net10.0/ref",
+    "Код/ScopeOfAVariable/ScopeOfAVariable/obj/Debug/net10.0",
+    "Код/ScopeOfAVariable/ScopeOfAVariable/obj/Debug",
+    "Код/ScopeOfAVariable/ScopeOfAVariable/obj",
+    "Код/ScopeOfAVariable/ScopeOfAVariable/bin/Debug/net10.0",
     "Лекции/38 - Вложени if твърдения.md",
+    "Лекции/39 - Разбиране на обхвата на променлива.md",
+    "Images/73.png",
+    "Images/72.png",
+    "Лекции/37 - Оператор за равенствео и операторът а различие.md",
     "Images/71.png",
     "Images/70.png",
     "Лекции/36 - Else...if ключова дума и ред на важност.md",
@@ -226,7 +228,6 @@
     "Images/66.png",
     "Images/65.png",
     "Images/64.png",
-    "Images/63.png",
     "Лекции/35 - Else.md",
     "Лекции/34 - Релационни оператори.md",
     "Лекции/33 - AND оператор.md",
@@ -247,7 +248,6 @@
     "Лекции/18 - Изпозлване на double в нашия проект.md",
     "Лекции/17 - Конкатенация на стрингове vs. интерполация.md",
     "Лекции/1.md",
-    "Лекции/16 - Финализиране на калкулатора за добавяне.md",
-    "Лекции/15 - Изпозлване на int.Parse() метода за преобразуване на стринг в число.md"
+    "Лекции/16 - Финализиране на калкулатора за добавяне.md"
   ]
 }
