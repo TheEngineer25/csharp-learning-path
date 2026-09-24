@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/34 - Релационни оператори.md",
+                "file": "Лекции/35 - Else.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "34 - Релационни оператори"
+              "title": "35 - Else"
             }
           }
         ]
@@ -201,32 +201,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ac84d8f94120ec84",
+  "active": "bf48d8f13f845e68",
   "lastOpenFiles": [
+    "Лекции/34 - Релационни оператори.md",
+    "Лекции/35 - Else.md",
+    "Код/ElseKeyword/ElseKeyword/obj/Debug/net10.0/ElseKeyword.assets.cache",
+    "Код/ElseKeyword/ElseKeyword/obj/ElseKeyword.csproj.nuget.dgspec.json",
+    "Код/ElseKeyword/ElseKeyword/obj/project.nuget.cache",
+    "Код/ElseKeyword/ElseKeyword/obj/project.assets.json",
+    "Код/ElseKeyword/ElseKeyword/obj/ElseKeyword.csproj.nuget.g.targets",
+    "Код/ElseKeyword/ElseKeyword/obj/ElseKeyword.csproj.nuget.g.props",
+    "Код/ElseKeyword/ElseKeyword/obj/Debug/net10.0/ElseKeyword.AssemblyInfo.cs",
+    "Код/ElseKeyword/ElseKeyword/obj/Debug/net10.0/ElseKeyword.AssemblyInfoInputs.cache",
+    "Код/ElseKeyword/ElseKeyword/obj/Debug/net10.0/ElseKeyword.GeneratedMSBuildEditorConfig.editorconfig",
+    "Код/ElseKeyword/ElseKeyword/obj/Debug/net10.0/refint",
+    "Images/61.png",
+    "Images/60.png",
     "Images/59.png",
     "Images/58.png",
     "Images/57.png",
     "Images/56.png",
     "Images/55.png",
     "Images/54.png",
-    "Код/RelationalOperators/RelationalOperators/obj/Debug/net10.0/RelationalOperators.csproj.FileListAbsolute.txt",
-    "Код/RelationalOperators/RelationalOperators/bin/Debug/net10.0/RelationalOperators.pdb",
-    "Код/RelationalOperators/RelationalOperators/obj/Debug/net10.0/Relation.FFDC5EF9.Up2Date",
-    "Код/RelationalOperators/RelationalOperators/obj/Debug/net10.0/ref/RelationalOperators.dll",
-    "Код/RelationalOperators/RelationalOperators/bin/Debug/net10.0/RelationalOperators.dll",
-    "Код/RelationalOperators/RelationalOperators/bin/Debug/net10.0/RelationalOperators.runtimeconfig.json",
-    "Код/RelationalOperators/RelationalOperators/obj/Debug/net10.0/RelationalOperators.genruntimeconfig.cache",
-    "Код/RelationalOperators/RelationalOperators/bin/Debug/net10.0/RelationalOperators.deps.json",
-    "Код/RelationalOperators/RelationalOperators/bin/Debug/net10.0/RelationalOperators.exe",
-    "Код/RelationalOperators/RelationalOperators/obj/Debug/net10.0/apphost.exe",
     "Лекции/33 - AND оператор.md",
-    "Лекции/34 - Релационни оператори.md",
     "Images/53.png",
     "Лекции/32 - Оператори OR и NOT.md",
     "Images/52.png",
-    "Images/51.png",
-    "Images/50.png",
-    "Images/49.png",
     "Лекции/31 - If изявления.md",
     "Лекции/30 - Типът данни bool.md",
     "Лекции/29 - Логически оператори.md",
