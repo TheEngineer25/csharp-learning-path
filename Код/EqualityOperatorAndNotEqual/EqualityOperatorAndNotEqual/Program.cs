@@ -1,8 +1,20 @@
 ﻿int num1 = 0;
 int num2 = 0;
 
+bool isEqual = num1 == num2;
+bool isNotEqual = num1 != num2;
 
 
+if(num1 == int.Parse(Console.ReadLine()))
+{
+    Console.WriteLine("Numbers are equal!");
+}
+else
+{
+    Console.WriteLine("Numbers are not equal!");
+}
+
+/*
 int age = 16;
 bool isWithParents = false;
 
@@ -18,7 +30,7 @@ else
 {
     Console.WriteLine("Go party in kindergarden!");
 }
-
+*/
 
 
 Console.ReadKey();
