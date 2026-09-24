@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/35 - Else.md",
+                "file": "Лекции/36 - Else...if ключова дума и ред на важност.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "35 - Else"
+              "title": "36 - Else...if ключова дума и ред на важност"
             }
           }
         ]
@@ -201,20 +201,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bf48d8f13f845e68",
+  "active": "ac84d8f94120ec84",
   "lastOpenFiles": [
-    "Лекции/36 - Else...if ключова дума и ред на важност.md",
-    "Код/ElseIfAndOrderOfImportance/ElseIfAndOrderOfImportance/obj/Debug/net10.0/ElseIfAndOrderOfImportance.assets.cache",
-    "Код/ElseIfAndOrderOfImportance/ElseIfAndOrderOfImportance/obj/ElseIfAndOrderOfImportance.csproj.nuget.dgspec.json",
-    "Код/ElseIfAndOrderOfImportance/ElseIfAndOrderOfImportance/obj/project.nuget.cache",
-    "Код/ElseIfAndOrderOfImportance/ElseIfAndOrderOfImportance/obj/project.assets.json",
-    "Код/ElseIfAndOrderOfImportance/ElseIfAndOrderOfImportance/obj/ElseIfAndOrderOfImportance.csproj.nuget.g.targets",
-    "Код/ElseIfAndOrderOfImportance/ElseIfAndOrderOfImportance/obj/ElseIfAndOrderOfImportance.csproj.nuget.g.props",
-    "Код/ElseIfAndOrderOfImportance/ElseIfAndOrderOfImportance/obj/a9af146c-f816-477d-93ef-a7256aa4d75f.tmp",
-    "Код/ElseIfAndOrderOfImportance/ElseIfAndOrderOfImportance/obj/Debug/net10.0/ElseIfAndOrderOfImportance.AssemblyInfo.cs",
-    "Код/ElseIfAndOrderOfImportance/ElseIfAndOrderOfImportance/obj/Debug/net10.0/ElseIfAndOrderOfImportance.AssemblyInfoInputs.cache",
-    "Код/ElseIfAndOrderOfImportance/ElseIfAndOrderOfImportance/obj/Debug/net10.0/ElseIfAndOrderOfImportance.GeneratedMSBuildEditorConfig.editorconfig",
+    "Images/64.png",
+    "Images/63.png",
+    "Код/ElseIfAndOrderOfImportance/ElseIfAndOrderOfImportance/obj/Debug/net10.0/ElseIfAndOrderOfImportance.csproj.FileListAbsolute.txt",
+    "Код/ElseIfAndOrderOfImportance/ElseIfAndOrderOfImportance/bin/Debug/net10.0/ElseIfAndOrderOfImportance.pdb",
+    "Код/ElseIfAndOrderOfImportance/ElseIfAndOrderOfImportance/obj/Debug/net10.0/ElseIfAn.DA73EEF3.Up2Date",
+    "Код/ElseIfAndOrderOfImportance/ElseIfAndOrderOfImportance/obj/Debug/net10.0/ref/ElseIfAndOrderOfImportance.dll",
+    "Код/ElseIfAndOrderOfImportance/ElseIfAndOrderOfImportance/bin/Debug/net10.0/ElseIfAndOrderOfImportance.dll",
+    "Код/ElseIfAndOrderOfImportance/ElseIfAndOrderOfImportance/bin/Debug/net10.0/ElseIfAndOrderOfImportance.runtimeconfig.json",
+    "Код/ElseIfAndOrderOfImportance/ElseIfAndOrderOfImportance/obj/Debug/net10.0/ElseIfAndOrderOfImportance.genruntimeconfig.cache",
+    "Код/ElseIfAndOrderOfImportance/ElseIfAndOrderOfImportance/bin/Debug/net10.0/ElseIfAndOrderOfImportance.deps.json",
+    "Код/ElseIfAndOrderOfImportance/ElseIfAndOrderOfImportance/bin/Debug/net10.0/ElseIfAndOrderOfImportance.exe",
+    "Код/ElseIfAndOrderOfImportance/ElseIfAndOrderOfImportance/obj/Debug/net10.0/apphost.exe",
     "Лекции/35 - Else.md",
+    "Лекции/36 - Else...if ключова дума и ред на важност.md",
     "Images/62.png",
     "Лекции/34 - Релационни оператори.md",
     "Images/61.png",
@@ -226,7 +228,6 @@
     "Images/55.png",
     "Images/54.png",
     "Лекции/33 - AND оператор.md",
-    "Images/53.png",
     "Лекции/32 - Оператори OR и NOT.md",
     "Лекции/31 - If изявления.md",
     "Лекции/30 - Типът данни bool.md",
