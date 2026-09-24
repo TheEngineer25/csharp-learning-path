@@ -1,9 +1,10 @@
-﻿int age = 3;
+﻿int age = 22;
+bool isWithParents = false;
 
 if (age >= 18)
 {
     Console.WriteLine("Go party in the club!");
-} else if (age > 6)
+} else if (age >= 6)
 {
     Console.WriteLine("Go party in school!");
 }
