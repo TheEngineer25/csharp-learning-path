@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/35 - Else.md",
+                "file": "Лекции/36 - Else...if ключова дума и ред на важност.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "35 - Else"
+              "title": "36 - Else...if ключова дума и ред на важност"
             }
           }
         ]
@@ -203,18 +203,20 @@
   },
   "active": "bf48d8f13f845e68",
   "lastOpenFiles": [
-    "Лекции/34 - Релационни оператори.md",
     "Лекции/35 - Else.md",
-    "Код/ElseKeyword/ElseKeyword/obj/Debug/net10.0/ElseKeyword.assets.cache",
-    "Код/ElseKeyword/ElseKeyword/obj/ElseKeyword.csproj.nuget.dgspec.json",
-    "Код/ElseKeyword/ElseKeyword/obj/project.nuget.cache",
-    "Код/ElseKeyword/ElseKeyword/obj/project.assets.json",
-    "Код/ElseKeyword/ElseKeyword/obj/ElseKeyword.csproj.nuget.g.targets",
-    "Код/ElseKeyword/ElseKeyword/obj/ElseKeyword.csproj.nuget.g.props",
-    "Код/ElseKeyword/ElseKeyword/obj/Debug/net10.0/ElseKeyword.AssemblyInfo.cs",
-    "Код/ElseKeyword/ElseKeyword/obj/Debug/net10.0/ElseKeyword.AssemblyInfoInputs.cache",
-    "Код/ElseKeyword/ElseKeyword/obj/Debug/net10.0/ElseKeyword.GeneratedMSBuildEditorConfig.editorconfig",
-    "Код/ElseKeyword/ElseKeyword/obj/Debug/net10.0/refint",
+    "Лекции/36 - Else...if ключова дума и ред на важност.md",
+    "Задачи/DataTypeBoolandConditionalStatements/DataTypeBoolandConditionalStatements/bin/Debug/net10.0/DataTypeBoolandConditionalStatements.runtimeconfig.json",
+    "Задачи/DataTypeBoolandConditionalStatements/DataTypeBoolandConditionalStatements/obj/Debug/net10.0/DataTypeBoolandConditionalStatements.genruntimeconfig.cache",
+    "Задачи/DataTypeBoolandConditionalStatements/DataTypeBoolandConditionalStatements/bin/Debug/net10.0/DataTypeBoolandConditionalStatements.deps.json",
+    "Задачи/DataTypeBoolandConditionalStatements/DataTypeBoolandConditionalStatements/bin/Debug/net10.0/DataTypeBoolandConditionalStatements.exe",
+    "Задачи/DataTypeBoolandConditionalStatements/DataTypeBoolandConditionalStatements/obj/Debug/net10.0/apphost.exe",
+    "Задачи/DataTypeBoolandConditionalStatements/DataTypeBoolandConditionalStatements/obj/Debug/net10.0/DataTypeBoolandConditionalStatements.csproj.BuildWithSkipAnalyzers",
+    "Задачи/DataTypeBoolandConditionalStatements/DataTypeBoolandConditionalStatements/obj/Debug/net10.0/refint/DataTypeBoolandConditionalStatements.dll",
+    "Задачи/DataTypeBoolandConditionalStatements/DataTypeBoolandConditionalStatements/obj/Debug/net10.0/DataTypeBoolandConditionalStatements.pdb",
+    "Задачи/DataTypeBoolandConditionalStatements/DataTypeBoolandConditionalStatements/obj/Debug/net10.0/DataTypeBoolandConditionalStatements.dll",
+    "Задачи/DataTypeBoolandConditionalStatements/DataTypeBoolandConditionalStatements/obj/Debug/net10.0/DataTypeBoolandConditionalStatements.sourcelink.json",
+    "Images/62.png",
+    "Лекции/34 - Релационни оператори.md",
     "Images/61.png",
     "Images/60.png",
     "Images/59.png",
@@ -226,7 +228,6 @@
     "Лекции/33 - AND оператор.md",
     "Images/53.png",
     "Лекции/32 - Оператори OR и NOT.md",
-    "Images/52.png",
     "Лекции/31 - If изявления.md",
     "Лекции/30 - Типът данни bool.md",
     "Лекции/29 - Логически оператори.md",
@@ -247,7 +248,6 @@
     "Лекции/15 - Изпозлване на int.Parse() метода за преобразуване на стринг в число.md",
     "Лекции/15. Използване на парсване за конвертиране от стринг в число.md",
     "Лекции/14 - Разбиране на типа данни int и защо не можем да го поберем в стринг.md",
-    "Лекции/01 - Първа програма и Hello World.md",
-    "Лекции/13 - Разбиране на предупорежденията в C#.md"
+    "Лекции/01 - Първа програма и Hello World.md"
   ]
 }
