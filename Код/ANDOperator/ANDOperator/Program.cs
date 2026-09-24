@@ -1,5 +1,5 @@
-﻿bool isRainy = false;
-bool hasUmbrella = false;
+﻿bool isRainy = true;
+bool hasUmbrella = true;
 
 if (isRainy && hasUmbrella)
 {
