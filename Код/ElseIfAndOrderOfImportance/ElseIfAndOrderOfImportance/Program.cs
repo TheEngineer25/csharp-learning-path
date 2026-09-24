@@ -9,7 +9,7 @@ if (age > 18)
     Console.WriteLine("Go party in the club!");
 }
 
-else if (age >= 13 && isWithParents)
+else if (age >= 13)
 {
     Console.WriteLine("Are you with your parents? Answe with y or n");
     string answer = Console.ReadLine();
@@ -21,12 +21,7 @@ else if (age >= 13 && isWithParents)
     {
         Console.WriteLine("No party for you!");
     }
-    
-   
-} else if (age > 18)
-{
-    
-}
+} 
 else
 {
     Console.WriteLine("Go party in kindergarden!");
