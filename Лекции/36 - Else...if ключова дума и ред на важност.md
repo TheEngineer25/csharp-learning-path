@@ -128,3 +128,28 @@ tags:
 > ```
 
 Сега ще проверяваме не само за възрастта, но и за родителите по следния начин.
+
+> [!code] C# Code
+> ```csharp
+> int age = 22;
+> bool isWithParents = false;
+> 
+> if (age >= 13 && isWithParents)
+> {
+>  Console.WriteLine("Go party in the club!");
+>  } else if (age > 18)
+>  {
+>  Console.WriteLine("Go party in the club!");
+>  }
+>  else
+>  {
+>  Console.WriteLine("Go party in kindergraden!");
+>  }
+> ```
+
+Понеже `age` е 22, няма значение дали сме с родителите или не. Ако обаче `age` е 16, тогава те трябва да са с нас. Нека да пуснем това.
+
+![](../Images/Pasted%20image%2020260924112120.png)
+
+Виждаме, че трябва да ходим в детската градина.
+
