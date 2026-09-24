@@ -32,4 +32,6 @@ else
     Console.WriteLine("Numbers are not equal!");
 }
 
+age = 0;
+
 Console.ReadKey();

@@ -201,8 +201,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bf48d8f13f845e68",
+  "active": "ac84d8f94120ec84",
   "lastOpenFiles": [
+    "Images/76.png",
+    "Images/75.png",
+    "Images/74.png",
     "Код/ScopeOfAVariable/ScopeOfAVariable/obj/Debug/net10.0/ScopeOfAVariable.assets.cache",
     "Код/ScopeOfAVariable/ScopeOfAVariable/obj/Debug/net10.0/ScopeOfAVariable.AssemblyInfo.cs",
     "Код/ScopeOfAVariable/ScopeOfAVariable/obj/Debug/net10.0/ScopeOfAVariable.AssemblyInfoInputs.cache",
@@ -213,7 +216,6 @@
     "Код/ScopeOfAVariable/ScopeOfAVariable/obj/Debug/net10.0",
     "Код/ScopeOfAVariable/ScopeOfAVariable/obj/Debug",
     "Код/ScopeOfAVariable/ScopeOfAVariable/obj",
-    "Код/ScopeOfAVariable/ScopeOfAVariable/bin/Debug/net10.0",
     "Лекции/38 - Вложени if твърдения.md",
     "Лекции/39 - Разбиране на обхвата на променлива.md",
     "Images/73.png",
@@ -226,8 +228,6 @@
     "Images/68.png",
     "Images/67.png",
     "Images/66.png",
-    "Images/65.png",
-    "Images/64.png",
     "Лекции/35 - Else.md",
     "Лекции/34 - Релационни оператори.md",
     "Лекции/33 - AND оператор.md",
