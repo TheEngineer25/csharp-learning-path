@@ -1,6 +1,7 @@
 ﻿int num1 = 0;
 int num2 = 0;
 int age = 0;
+string address;
 
 bool isEqual = num1 == num2;
 bool isNotEqual = num1 != num2;
@@ -19,11 +20,13 @@ if (num1 == int.Parse(Console.ReadLine()))
         Console.WriteLine("Please enter your " +
             "adress, so you can have the prize");
 
-        string address = Console.ReadLine();
+        address = Console.ReadLine();
+        
     }
     else
     {
         Console.WriteLine("Sorry, you can't get the price!");
+        
     }
 
 }
