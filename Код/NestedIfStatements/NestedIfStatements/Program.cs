@@ -10,13 +10,19 @@ if (num1 == int.Parse(Console.ReadLine()))
 {
     Console.WriteLine("Numbers are equal!");
 
-    int age = 0;
-    if( age >= 18)
+    Console.WriteLine("Please enter your age:");
+
+    int age = int.Parse(Console.ReadLine());
+    if ( age >= 18)
     {
         Console.WriteLine("Please enter your " +
             "adress, so you can have the prize");
 
         string address = Console.ReadLine();
+    }
+    else
+    {
+        Console.WriteLine("Sorry, you can't get the price!");
     }
 
 }
