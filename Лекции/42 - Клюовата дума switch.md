@@ -54,9 +54,38 @@ tags:
 > 	case 1:
 > 	   monthName = "January";
 > 	 break;
-> 	 case 2
+> 	 case 2:
+> 		 monthName = "February";
+> 	break;
+> 		case 3:
+> 		monthName = "March";
+> 	break; 
 > }
 > ```
+
+И след това обикновено имаме ключовата дума `default`, която може да ни даде името на месеца като неизвестно например.
+
+> [!code] C# Използване на default
+> ```csharp
+>switch (month)
+>{
+> 	case 1:
+> 	   monthName = "January";
+> 	 break;
+> 	 case 2:
+> 		 monthName = "February";
+> 	break;
+> 		case 3:
+> 		monthName = "March";
+> 	break; 
+> 	default:
+> 		monthName = "Unknown";
+> 	break;
+> }
+> ```
+
+По подразбиране `default` е все едно да имаме `else`. Така че ако числото се различава от числата, които имаме, тогава ще се изпълни `default`.
+По този начин общо казано изглежда `switch` командата.
 
 
 

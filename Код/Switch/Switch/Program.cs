@@ -29,6 +29,9 @@ switch (month)
     case 3:
         monthName = "March";
         break;
+    default:
+        monthName = "Unknown";
+        break;
 }
 
 
