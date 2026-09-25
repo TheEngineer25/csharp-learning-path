@@ -203,18 +203,19 @@
   },
   "active": "bf48d8f13f845e68",
   "lastOpenFiles": [
+    "Код/Switch/Switch/obj/Debug/net10.0/Switch.assets.cache",
+    "Код/Switch/Switch/obj/Switch.csproj.nuget.dgspec.json",
+    "Код/Switch/Switch/obj/project.nuget.cache",
+    "Код/Switch/Switch/obj/project.assets.json",
+    "Код/Switch/Switch/obj/Switch.csproj.nuget.g.targets",
+    "Код/Switch/Switch/obj/Switch.csproj.nuget.g.props",
+    "Код/Switch/Switch/obj/Debug/net10.0/Switch.GlobalUsings.g.cs",
+    "Код/Switch/Switch/obj/Debug/net10.0/Switch.GeneratedMSBuildEditorConfig.editorconfig",
+    "Код/Switch/Switch/obj/Debug/net10.0/Switch.AssemblyInfoInputs.cache",
+    "Код/Switch/Switch/obj/Debug/net10.0/Switch.AssemblyInfo.cs",
+    "Код/Switch/Switch/obj/Debug/net10.0/refint",
     "Лекции/41 - Едноредовo if изявление.md",
     "Лекции/42 - Клюовата дума switch.md",
-    "Код/OneLineIfELse/OneLineIfELse/obj/Debug/net10.0/OneLineIfELse.assets.cache",
-    "Код/OneLineIfELse/OneLineIfELse/obj/OneLineIfELse.csproj.nuget.dgspec.json",
-    "Код/OneLineIfELse/OneLineIfELse/obj/project.nuget.cache",
-    "Код/OneLineIfELse/OneLineIfELse/obj/project.assets.json",
-    "Код/OneLineIfELse/OneLineIfELse/obj/OneLineIfELse.csproj.nuget.g.targets",
-    "Код/OneLineIfELse/OneLineIfELse/obj/OneLineIfELse.csproj.nuget.g.props",
-    "Код/OneLineIfELse/OneLineIfELse/obj/Debug/net10.0/OneLineIfELse.AssemblyInfo.cs",
-    "Код/OneLineIfELse/OneLineIfELse/obj/Debug/net10.0/OneLineIfELse.AssemblyInfoInputs.cache",
-    "Код/OneLineIfELse/OneLineIfELse/obj/Debug/net10.0/OneLineIfELse.GeneratedMSBuildEditorConfig.editorconfig",
-    "Код/OneLineIfELse/OneLineIfELse/obj/Debug/net10.0/refint",
     "Лекции/13 - Разбиране на предупорежденията в C#.md",
     "Лекции/40 - Предивикателство - можем ли да влезем в клуб или не.md",
     "Images/79.png",
@@ -247,7 +248,6 @@
     "Лекции/22 - Имплицитно типизирани променливи vs. експлицитно типизирани променливи.md",
     "Лекции/21 - Методи за преобразуване Parse и Convert.md",
     "Лекции/20 - Експлицитно преобразуване.md",
-    "Лекции/19 - Имплицитно проеобразуване.md",
-    "Лекции/18 - Изпозлване на double в нашия проект.md"
+    "Лекции/19 - Имплицитно проеобразуване.md"
   ]
 }
