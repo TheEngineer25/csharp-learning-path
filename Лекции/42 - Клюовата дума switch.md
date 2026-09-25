@@ -33,14 +33,33 @@ tags:
 И след това имаме различни случаи (`cases`).
 Например в първия случай
 
-> [!code] C# 
+> [!code] C# Използване на switch, case  и break
 > ```csharp
-> int age = 25;
-> string name = "Vladislav";
->
-> Console.WriteLine($"Hello, {name}!");
-> Console.WriteLine($"Age: {age}");
+>switch (month)
+>{
+> 	case 1:
+> 	   monthName = "January";
+> 	 break;
+> }
 > ```
+
+И след това добавяме ключовата дума `break`.
+Защо имаме нужда от ключовата дума `break`? Това ни трябва , за да се уверим ,че когато твърдението ни е вярно, никое от изброените по-долу не може да бъде вярно. Това е много подобно на това, което ние видяхме с `if/else`.
+Сега нека да разгледаме другите случаи.
+
+> [!code] C# Използване на switch, case  и break
+> ```csharp
+>switch (month)
+>{
+> 	case 1:
+> 	   monthName = "January";
+> 	 break;
+> 	 case 2
+> }
+> ```
+
+
+
 
 
 

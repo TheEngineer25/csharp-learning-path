@@ -23,6 +23,12 @@ switch (month)
     case 1:
         monthName = "January";
         break;
+    case 2:
+        monthName = "February";
+        break;
+    case 3:
+        monthName = "March";
+        break;
 }
 
 
