@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/41 - Едноредовo if изявление.md",
+                "file": "Лекции/42 - Клюовата дума switch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "41 - Едноредовo if изявление"
+              "title": "42 - Клюовата дума switch"
             }
           }
         ]
@@ -203,6 +203,8 @@
   },
   "active": "bf48d8f13f845e68",
   "lastOpenFiles": [
+    "Лекции/41 - Едноредовo if изявление.md",
+    "Лекции/42 - Клюовата дума switch.md",
     "Код/OneLineIfELse/OneLineIfELse/obj/Debug/net10.0/OneLineIfELse.assets.cache",
     "Код/OneLineIfELse/OneLineIfELse/obj/OneLineIfELse.csproj.nuget.dgspec.json",
     "Код/OneLineIfELse/OneLineIfELse/obj/project.nuget.cache",
@@ -213,9 +215,7 @@
     "Код/OneLineIfELse/OneLineIfELse/obj/Debug/net10.0/OneLineIfELse.AssemblyInfoInputs.cache",
     "Код/OneLineIfELse/OneLineIfELse/obj/Debug/net10.0/OneLineIfELse.GeneratedMSBuildEditorConfig.editorconfig",
     "Код/OneLineIfELse/OneLineIfELse/obj/Debug/net10.0/refint",
-    "Код/OneLineIfELse/OneLineIfELse/obj/Debug/net10.0/ref",
     "Лекции/13 - Разбиране на предупорежденията в C#.md",
-    "Лекции/41 - Едноредовo if изявление.md",
     "Лекции/40 - Предивикателство - можем ли да влезем в клуб или не.md",
     "Images/79.png",
     "Images/78.png",
