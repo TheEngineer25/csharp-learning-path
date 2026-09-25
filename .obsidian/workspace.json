@@ -203,18 +203,19 @@
   },
   "active": "bf48d8f13f845e68",
   "lastOpenFiles": [
+    "Задачи/UsingtheSwitchStatement/UsingtheSwitchStatement/obj/Debug/net10.0/UsingtheSwitchStatement.csproj.FileListAbsolute.txt",
+    "Задачи/UsingtheSwitchStatement/UsingtheSwitchStatement/bin/Debug/net10.0/UsingtheSwitchStatement.pdb",
+    "Задачи/UsingtheSwitchStatement/UsingtheSwitchStatement/obj/Debug/net10.0/Usingthe.080FD534.Up2Date",
+    "Задачи/UsingtheSwitchStatement/UsingtheSwitchStatement/obj/Debug/net10.0/ref/UsingtheSwitchStatement.dll",
+    "Задачи/UsingtheSwitchStatement/UsingtheSwitchStatement/bin/Debug/net10.0/UsingtheSwitchStatement.dll",
+    "Задачи/UsingtheSwitchStatement/UsingtheSwitchStatement/bin/Debug/net10.0/UsingtheSwitchStatement.runtimeconfig.json",
+    "Задачи/UsingtheSwitchStatement/UsingtheSwitchStatement/obj/Debug/net10.0/UsingtheSwitchStatement.genruntimeconfig.cache",
+    "Задачи/UsingtheSwitchStatement/UsingtheSwitchStatement/bin/Debug/net10.0/UsingtheSwitchStatement.deps.json",
+    "Задачи/UsingtheSwitchStatement/UsingtheSwitchStatement/bin/Debug/net10.0/UsingtheSwitchStatement.exe",
+    "Задачи/UsingtheSwitchStatement/UsingtheSwitchStatement/obj/Debug/net10.0/apphost.exe",
+    "Задачи/UsingtheSwitchStatement/UsingtheSwitchStatement/obj/Debug/net10.0/UsingtheSwitchStatement.csproj.BuildWithSkipAnalyzers",
     "Лекции/42 - Клюовата дума switch.md",
     "Лекции/43 - switch или if - кое да изберем.md",
-    "Код/Switch/Switch/obj/Debug/net10.0/Switch.assets.cache",
-    "Код/Switch/Switch/obj/Switch.csproj.nuget.dgspec.json",
-    "Код/Switch/Switch/obj/project.nuget.cache",
-    "Код/Switch/Switch/obj/project.assets.json",
-    "Код/Switch/Switch/obj/Switch.csproj.nuget.g.targets",
-    "Код/Switch/Switch/obj/Switch.csproj.nuget.g.props",
-    "Код/Switch/Switch/obj/Debug/net10.0/Switch.GlobalUsings.g.cs",
-    "Код/Switch/Switch/obj/Debug/net10.0/Switch.GeneratedMSBuildEditorConfig.editorconfig",
-    "Код/Switch/Switch/obj/Debug/net10.0/Switch.AssemblyInfoInputs.cache",
-    "Код/Switch/Switch/obj/Debug/net10.0/Switch.AssemblyInfo.cs",
     "Лекции/41 - Едноредовo if изявление.md",
     "Лекции/13 - Разбиране на предупорежденията в C#.md",
     "Лекции/40 - Предивикателство - можем ли да влезем в клуб или не.md",
@@ -247,7 +248,6 @@
     "Лекции/23 - Оператори, ред на оценяване и базова математика.md",
     "Лекции/22 - Имплицитно типизирани променливи vs. експлицитно типизирани променливи.md",
     "Лекции/21 - Методи за преобразуване Parse и Convert.md",
-    "Лекции/20 - Експлицитно преобразуване.md",
-    "Лекции/19 - Имплицитно проеобразуване.md"
+    "Лекции/20 - Експлицитно преобразуване.md"
   ]
 }
