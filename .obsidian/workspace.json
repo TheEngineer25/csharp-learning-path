@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/42 - Клюовата дума switch.md",
+                "file": "Лекции/43 - switch или if - кое да изберем.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "42 - Клюовата дума switch"
+              "title": "43 - switch или if - кое да изберем"
             }
           }
         ]
@@ -203,6 +203,8 @@
   },
   "active": "bf48d8f13f845e68",
   "lastOpenFiles": [
+    "Лекции/42 - Клюовата дума switch.md",
+    "Лекции/43 - switch или if - кое да изберем.md",
     "Код/Switch/Switch/obj/Debug/net10.0/Switch.assets.cache",
     "Код/Switch/Switch/obj/Switch.csproj.nuget.dgspec.json",
     "Код/Switch/Switch/obj/project.nuget.cache",
@@ -213,9 +215,7 @@
     "Код/Switch/Switch/obj/Debug/net10.0/Switch.GeneratedMSBuildEditorConfig.editorconfig",
     "Код/Switch/Switch/obj/Debug/net10.0/Switch.AssemblyInfoInputs.cache",
     "Код/Switch/Switch/obj/Debug/net10.0/Switch.AssemblyInfo.cs",
-    "Код/Switch/Switch/obj/Debug/net10.0/refint",
     "Лекции/41 - Едноредовo if изявление.md",
-    "Лекции/42 - Клюовата дума switch.md",
     "Лекции/13 - Разбиране на предупорежденията в C#.md",
     "Лекции/40 - Предивикателство - можем ли да влезем в клуб или не.md",
     "Images/79.png",
