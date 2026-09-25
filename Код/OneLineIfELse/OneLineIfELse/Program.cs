@@ -3,7 +3,16 @@ string monthName;
 
 if(month == 1)
 {
-    monthName = "Ferbuary";
+    monthName = "January";
+} else if (month == 2)
+{
+    monthName = "February";
+} else if (month == 3)
+{
+    monthName = "March";
+} else
+{
+    monthName = "Unknown";
 }
 
 
