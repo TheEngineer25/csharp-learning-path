@@ -4,7 +4,7 @@ Console.WriteLine("Please enter your age:");
 int age = int.Parse(Console.ReadLine());
 bool isWithParents = false;
 
-if (age > 18)
+if (age >= 18)
 {
     Console.WriteLine("Go party in the club!");
 }
